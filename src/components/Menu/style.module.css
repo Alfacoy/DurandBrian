@@ -1,0 +1,14 @@
+.menu__list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.menu__list li {
+    padding: 0 .5rem;
+}
+
+.menu__list__item_color_light {
+    color: #fff;
+    font-weight: 600;
+}
