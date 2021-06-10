@@ -1,0 +1,10 @@
+.grid {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    min-height: 100vh;
+}
+
+.grid_content {
+    display: grid;
+    align-content: space-around;
+}
